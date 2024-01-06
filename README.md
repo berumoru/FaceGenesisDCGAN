@@ -33,7 +33,7 @@ This application shall conform to the following **. /docker** environment. The f
     >sh . /docker/into.sh
 
 ### Data Preparation
-
+Place the zip file of the images you want to train in the **./dataset** folder.
 
 ### Training
 Execute the following command to start learning. The conditions for learning can be changed in the sh file.<br>
