@@ -5,7 +5,7 @@ This project aims to learn the architecture and performance of the model by gene
 
 ## Results
 #### Output results for each 10epoch
-[Image from Gyazo](assets/timelaps.gif)
+[Output results for each 10epoch](assets/timelaps.gif)
 <br>
 Training results of about 4000 images resized to 128*128 and rotated 500 epochs with batch size 64.
 The results are roughly the same as in the paper.
